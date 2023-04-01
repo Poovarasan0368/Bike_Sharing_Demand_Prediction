@@ -66,4 +66,4 @@ per hour and date information.
 
 * Performance of the rented bike count during the winter is relatively low, and the bike counts are much raised during the summer.
 
-* When compared to holidays, bike counts are significantly higher on non-holiday days; this may be because of office hours
+* When compared to holidays, bike counts are significantly higher on non-holiday days; this may be because of office hours 
